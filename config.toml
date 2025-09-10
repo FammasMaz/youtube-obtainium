@@ -6,15 +6,15 @@ parallel-jobs = 1
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-build-mode = "both"
+build-mode = "module"
 excluded-patches = "'GmsCore support'"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-build-mode = "both"
+build-mode = "module"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
+build-mode = "module"
 excluded-patches = "'GmsCore support'"
 
